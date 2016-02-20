@@ -78,7 +78,7 @@ namespace BuscaminasVentana
             {
                 for (int j = 1; j < columnas-1; j++)
                 {
-                    Console.Write(casillas[i, j]+" ");
+                    Console.Write(casillas[i, j]);
                 }
                 Console.WriteLine();
             }
