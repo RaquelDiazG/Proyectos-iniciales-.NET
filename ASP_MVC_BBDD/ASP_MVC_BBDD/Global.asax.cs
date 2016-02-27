@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ASP_MVC_BBDD.Models;
+using ASP_MVC_BBDD.Models.Binders;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,6 +15,7 @@ namespace ASP_MVC_BBDD
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            ModelBinders.Binders.Add(typeof(CarritoCompra), new CarritoCompraModelBinder());
         }
     }
 }

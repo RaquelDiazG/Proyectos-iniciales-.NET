@@ -1,6 +1,0 @@
-C:\Users\bm0819\Documents\Visual Studio 2013\Projects\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
-C:\Users\bm0819\Documents\Visual Studio 2013\Projects\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
-C:\Users\bm0819\Documents\Visual Studio 2013\Projects\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
-C:\Users\bm0819\Documents\Visual Studio 2013\Projects\Ejemplo1\Ejemplo1\obj\Debug\BuscaminasConsola.csprojResolveAssemblyReference.cache
-C:\Users\bm0819\Documents\Visual Studio 2013\Projects\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
-C:\Users\bm0819\Documents\Visual Studio 2013\Projects\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb

@@ -26,5 +26,6 @@ namespace ASP_MVC_BBDD
         }
     
         public virtual DbSet<Productos> Productos { get; set; }
+        public virtual DbSet<Pedido> Pedidoes { get; set; }
     }
 }
